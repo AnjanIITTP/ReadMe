@@ -1,2 +1,2 @@
 Hi
-# I'm Anjan Oram, studying in IIT Tirupati. I'm Working in Quantum information theory.
+I'm Anjan Oram, studying in IIT Tirupati. I'm Working in Quantum information theory.
